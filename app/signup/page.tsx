@@ -110,7 +110,7 @@ export default function SignupPage() {
           </div>
 
           {/* Google */}
-          <button className="btn btn-outline w-full">
+          <button className="btn w-full bg-indigo-600 hover:bg-indigo-700 text-white border-none">
             Continue with Google
           </button>
 
